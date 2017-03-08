@@ -4,5 +4,5 @@ import { Injectable } from '@angular/core';
 export class MasterURLService {
 
   constructor() { }
-
-}
+fazzr<<    sd
+}a
